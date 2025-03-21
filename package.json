@@ -9,8 +9,34 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.0.5",
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@excalidraw/excalidraw": "^0.17.6",
+    "@lexical/file": "^0.16.1",
+    "@lexical/headless": "^0.21.0",
+    "@lexical/react": "^0.16.1",
+    "@mui/lab": "^5.0.0-alpha.172",
+    "@mui/material": "^5.13.3",
+    "@next/third-parties": "^14.2.6",
+    "date-fns": "^2.30.0",
+    "env-cmd": "^10.1.0",
+    "formik": "^2.4.1",
+    "hangul-typing-animation": "^1.1.5",
+    "jotai": "^2.1.0",
+    "ky": "^1.4.0",
+    "ky-universal": "^0.12.0",
+    "lexical": "^0.16.1",
+    "next": "13.4.4",
+    "next-seo": "^6.5.0",
+    "next-sitemap": "^4.2.3",
+    "qs": "^6.12.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-slick": "^0.30.2",
+    "rss": "^1.2.2",
+    "sharp": "^0.32.1",
+    "slick-carousel": "^1.8.1",
+    "swr": "^2.2.5"
   }
 }
